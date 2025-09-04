@@ -2,7 +2,7 @@
 
 This project explores the use of machine learning to predict thyroid cancer types from patient medical data. Using a dataset of 383 patient records (age, gender, tumor stage, pathology, risk factors, etc.), multiple models were trained and evaluated.
 
-** Key Highlights:
+**Key Highlights:
 
 Applied Random Forest, Gradient Boosting, SVM, Logistic Regression, Neural Network and more.
 
